@@ -1,1 +1,1 @@
-# Ceedit-risk-project
+# Credit-risk-project
